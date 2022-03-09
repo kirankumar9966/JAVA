@@ -1,0 +1,12 @@
+class marks{
+	public static void main(String []args){
+		int salary=20000;
+		if (salary >= 10000){
+			System.out.println("eligible for M");
+		}
+		else  {
+			System.out.println("not eligible for M");
+		}
+		
+	}
+}

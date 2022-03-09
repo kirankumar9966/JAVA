@@ -1,0 +1,6 @@
+class test{
+	public static void main(String []args){
+		int salary=50000;
+		System.out.println(salary>=60000?"pass":"Fail");
+	}
+}
